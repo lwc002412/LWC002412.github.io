@@ -102,28 +102,6 @@
     
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>友情链接</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[<p>  时间：2018-06-07 22:17:49</p><h2 id="link"><a href="#link" class="headerlink" title="link"></a>link</h2>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -135,11 +113,33 @@
     
     
     <entry>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>电影</title>
       <link href="/movies/index.html"/>
       <url>/movies/index.html</url>
       
-        <content type="html"><![CDATA[<p>&#x2F;&#x2F;<a href="http://www.le.com/ptv/vplay/21832095.html">www.le.com/ptv/vplay/21832095.html</a></p><iframe     width="800"     height="450"     src='//www.le.com/ptv/vplay/21832095.html'    frameborder="0"     allowfullscreen></iframe>]]></content>
+        <content type="html"><![CDATA[<h3 id="春天"><a href="#春天" class="headerlink" title="春天"></a>春天</h3><iframe     width="800"     height="450"     src='//player.bilibili.com/player.html?aid=338480232&bvid=BV1ZR4y1K7RD&cid=492963849&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true'    frameborder="0"     allowfullscreen></iframe><h3 id="少女"><a href="#少女" class="headerlink" title="少女"></a>少女</h3><iframe     width="800"     height="450"     src='//player.bilibili.com/player.html?aid=635112704&bvid=BV1Pb4y1i7zW&cid=469109584&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true'    frameborder="0"     allowfullscreen></iframe><h3 id="甜妹"><a href="#甜妹" class="headerlink" title="甜妹"></a>甜妹</h3><iframe     width="800"     height="450"     src='//player.bilibili.com/player.html?aid=682152471&bvid=BV1WU4y1o7zG&cid=546030870&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true'    frameborder="0"     allowfullscreen></iframe><h3 id="惊艳"><a href="#惊艳" class="headerlink" title="惊艳"></a>惊艳</h3><iframe     width="800"     height="450"     src='//player.bilibili.com/player.html?aid=647947332&bvid=BV1fe4y1p7Co&cid=898707876&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true'    frameborder="0"     allowfullscreen></iframe>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友情链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[<p>  时间：2018-06-07 22:17:49</p><h2 id="link"><a href="#link" class="headerlink" title="link"></a>link</h2>]]></content>
       
     </entry>
     
@@ -161,7 +161,7 @@
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1937632261&auto=1&height=66"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2006547811&auto=1&height=66"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=0&id=5395050084&auto=1&height=430"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=0&id=6686195226&auto=1&height=430"></iframe>]]></content>
+        <content type="html"><![CDATA[<div id="aplayer-oSEOhviA" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="7748634467" data-server="netease" data-type="playlist" data-mode="random" data-autoplay="false" data-listmaxheight="340px" data-preload="auto" data-theme="#e3f2f5" data-volume="0.4" mutex="true"></div>]]></content>
       
     </entry>
     
