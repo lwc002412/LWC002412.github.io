@@ -60,7 +60,7 @@ a.bangumi-tab:hover {
 }
 .bangumi-button:hover {
   background: var(--anzhiyu-theme) !important;
-  border-radius: 10px !important;
+  border-radius: 20px !important;
   color: var(--anzhiyu-ahoverbg) !important;
 }
 a.bangumi-button.bangumi-nextpage:hover {
@@ -99,12 +99,18 @@ svg.icon.faa-tada {
 
 /* 首页文章卡片 */
 #recent-posts > .recent-post-item {
-  background: rgba(255, 255, 255, 0.9);
+  background: rgba(255,255,240, 1.0);
+  backdrop-filter: var(--hackdrop-filter);
+  border-radius: 30px; /*25px;*/
+  border: var(--border-style);
 }
 
 /* 首页侧栏卡片 */
 #aside-content .card-widget {
-  background: rgba(255, 255, 255, 0.9);
+  background: rgba(255,255,240, 1.0);
+  backdrop-filter: var(--hackdrop-filter);
+  border-radius: 30px; /*25px;*/
+  border: var(--border-style);
 }
 
 /* 文章页面正文背景 */
@@ -420,3 +426,21 @@ button:not(:disabled) {
   left: -125px;
 }
 
+
+
+/*哔哩哔哩视频适配*/
+.aspect-ratio {
+  position: relative;
+  width: 90%;
+  height: auto;
+  padding-bottom: 75%;
+  margin: 3% auto;
+  text-align: center;
+}
+.aspect-ratio iframe {
+  position: absolute;
+  width: 100%;
+  height: 86%;
+  left: 0;
+  top: 0;
+}
