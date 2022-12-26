@@ -512,12 +512,12 @@ button:not(:disabled) {
 
 
 /* 图标 */
-@import "//at.alicdn.com/t/font_2264842_b004iy0kk2b.css";
+@import "//at.alicdn.com/t/c/font_3831418_4dwd1f0vhas.css";
 
 
 .iconfont {
 font-family: "iconfont" !important;
-font-size: 3em;
+font-size: 1em;
 /* 可以定义图标大小 */
 font-style: normal;
 -webkit-font-smoothing: antialiased;
